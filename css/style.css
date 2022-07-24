@@ -1,0 +1,43 @@
+/* Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins:wght@100;300&family=Splash&display=swap');
+
+
+/* header css start */
+
+.navbar-nav .nav-link{
+    color: #3E3E3E ;
+    font-size: 16px;
+    margin: 0 10px;
+}
+
+
+/* header css end */
+
+
+
+/* banner css start  */
+.h-txt h2 {
+    padding: 0px 320px;
+    font-weight: 700;
+}
+.h-txt p{
+    padding: 0 330px;
+}
+.banner-btn .btn{
+    color: #3F87F5;
+    background-color: #fff;
+    border: none;
+    padding: 8px 16px;
+}
+/* banner css end  */
+
+/* about css start  */
+.about{
+
+    margin-top: 100px;
+}
+.about-txt{
+    padding-top: 60px;
+}
+/* about css end  */
